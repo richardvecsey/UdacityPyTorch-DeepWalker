@@ -12,6 +12,8 @@ DeepWalker is a Python based application.
 # Import
 Using this application you have to import **PyTorch**. Besides this there is no needed other import, since it uses standard elements.
 
+You have to download yolov3.weights file from [here](https://pjreddie.com/media/files/yolov3.weights) and place it to root directory.
+
 
 
 # Sources
